@@ -2,6 +2,9 @@
   "name": "RNTemplate2025",
   "version": "0.0.1",
   "private": true,
+  "author": "Praveen Nayak",
+  "description": "A starter React Native template for 2025 projects",
+  "license": "MIT",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
